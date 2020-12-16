@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Linowrite';
+    src: url('LW.woff2') format('woff2'),
+        url('LW.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
